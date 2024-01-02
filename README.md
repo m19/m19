@@ -1,5 +1,5 @@
-### Hi there 👋
+d### Hi there 👋
 
 ```
-I'm Martijn, a Software Engineer with a particular interest in #blockchain, #defi and #ethereum.
+I'm Martijn, a Software Engineer with a particular interest in software that makes the world a better place.
 ```
